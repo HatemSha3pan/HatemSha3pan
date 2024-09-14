@@ -58,6 +58,10 @@ Feel free to reach out to discuss data projects, potential collaborations, or ju
 👔 [LinkedIn](https://www.linkedin.com/in/YourLinkedInUsername)  
 💻 [GitHub](https://github.com/YourGithubUsername)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dark Mode Snake Animation" />
+</div>
+
 ---
 
 #### ✨ "Data is the new oil, but insight is the engine that drives innovation." 
