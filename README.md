@@ -7,14 +7,6 @@
 
 ---
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 ## 📖 About Me
 I am passionate about turning data into actionable insights and helping businesses make data-driven decisions. With a background in data analytics and data science, I enjoy solving complex problems by employing advanced data analysis, machine learning, and visualization techniques. 
 
@@ -71,18 +63,6 @@ Feel free to reach out to discuss data projects, potential collaborations, or ju
 ---
 
 #### ✨ "Data is the new oil, but insight is the engine that drives innovation." 
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dark Mode Snake Animation" />
