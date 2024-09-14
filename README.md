@@ -13,6 +13,13 @@ I am passionate about turning data into actionable insights and helping business
 Currently, I focus on using Python and SQL to analyze, interpret, and visualize data. I’m always excited about diving into new datasets, tackling challenging problems, and expanding my skill set.
 
 ---
+### 🚀 Projects
+** [🔗 View Project on GitHub](https://github.com/YourGithubUsername/Predictive-Maintenance)**
+adad fgfg fbbgfsd
+
+** [🔗 View Project on GitHub](https://github.com/YourGithubUsername/Predictive-Maintenance)**
+adad fgfg fbbgfsd
+---
 
 ## 💻 Skills
 
@@ -34,22 +41,6 @@ Currently, I focus on using Python and SQL to analyze, interpret, and visualize 
 
 ---
 
-## 🔥 Featured Project: Predictive Maintenance using Machine Learning
-### 🚀 Project Overview
-Predictive maintenance is a crucial aspect for industries to reduce downtime and maintenance costs. This project focuses on using machine learning techniques to predict equipment failures before they occur.
-
-- **Data Source:** Real-time sensor data from an industrial plant.
-- **Tech Stack:** Python, Pandas, Scikit-Learn, TensorFlow, Power BI
-- **Key Features:**
-  - Data Cleaning and Preprocessing
-  - Time Series Analysis
-  - Machine Learning Model to predict failure events
-  - Visualizing results through Power BI dashboards
-
-#### [🔗 View Project on GitHub](https://github.com/YourGithubUsername/Predictive-Maintenance)
-
----
-
 ## 🌐 Connect with Me
 Feel free to reach out to discuss data projects, potential collaborations, or just to chat about anything data-related!
 
@@ -57,10 +48,10 @@ Feel free to reach out to discuss data projects, potential collaborations, or ju
 👔 [LinkedIn](https://www.linkedin.com/in/YourLinkedInUsername)  
 💻 [GitHub](https://github.com/YourGithubUsername)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dark Mode Snake Animation" />
-</div>
-
 ---
 
 #### ✨ "Data is the new oil, but insight is the engine that drives innovation." 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dark Mode Snake Animation" />
+</div>
