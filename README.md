@@ -10,7 +10,7 @@
 ## 📖 About Me
 I am passionate about turning data into actionable insights and helping businesses make data-driven decisions. With a background in data analytics and data science, I enjoy solving complex problems by employing advanced data analysis, machine learning, and visualization techniques. 
 
-Currently, I focus on using Python, SQL, and R to analyze, interpret, and visualize data. I’m always excited about diving into new datasets, tackling challenging problems, and expanding my skill set.
+Currently, I focus on using Python and SQL to analyze, interpret, and visualize data. I’m always excited about diving into new datasets, tackling challenging problems, and expanding my skill set.
 
 ---
 
@@ -21,7 +21,6 @@ Currently, I focus on using Python, SQL, and R to analyze, interpret, and visual
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 ### Data Visualization & Tools
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
