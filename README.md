@@ -13,12 +13,24 @@ I am passionate about turning data into actionable insights and helping business
 Currently, I focus on using Python and SQL to analyze, interpret, and visualize data. I’m always excited about diving into new datasets, tackling challenging problems, and expanding my skill set.
 
 ---
-### 🚀 Projects
-** [🔗 View Project on GitHub](https://github.com/YourGithubUsername/Predictive-Maintenance) **
-adad fgfg fbbgfsd
 
-** [🔗 View Project on GitHub](https://github.com/YourGithubUsername/Predictive-Maintenhance) **
-adad fgfg fbbgfsd
+## 🚀 Projects
+
+### [Predictive Maintenance using Machine Learning](https://github.com/YourGithubUsername/Predictive-Maintenance)
+🛠️ **Description:** Developed a machine learning model to predict equipment failures in industrial machinery using real-time sensor data.
+
+
+### [Customer Segmentation using RFM Analysis](https://github.com/YourGithubUsername/Customer-Segmentation)
+📊 **Description:** Applied RFM analysis to segment customers based on purchasing behavior for targeted marketing strategies.
+
+
+### [Sentiment Analysis on Product Reviews](https://github.com/YourGithubUsername/Sentiment-Analysis)
+💬 **Description:** Built a sentiment analysis tool to classify and visualize customer review sentiments for a retail platform.
+
+
+### [Sales Forecasting with Time Series Models](https://github.com/YourGithubUsername/Sales-Forecasting)
+📈 **Description:** Developed time series forecasting models to predict future sales trends using historical sales data.
+
 ---
 
 ## 💻 Skills
