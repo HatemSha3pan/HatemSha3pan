@@ -56,7 +56,7 @@ Currently, I focus on using Python and SQL to analyze, interpret, and visualize 
 ## 🌐 Connect with Me
 Feel free to reach out to discuss data projects, potential collaborations, or just to chat about anything data-related!
 
-📧 Email: [youremail@example.com](mailto:hatem.shapan.02@gmail.com)  
+📧 [hatem.shapan.02@gmail.com](mailto:hatem.shapan.02@gmail.com)  
 👔 [LinkedIn](https://www.linkedin.com/in/Hatem-Shapan)  
 💻 [GitHub](https://github.com/HatemSha3pan)
 
