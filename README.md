@@ -14,10 +14,10 @@ Currently, I focus on using Python and SQL to analyze, interpret, and visualize 
 
 ---
 ### 🚀 Projects
-** [🔗 View Project on GitHub](https://github.com/YourGithubUsername/Predictive-Maintenance)**
+** [🔗 View Project on GitHub](https://github.com/YourGithubUsername/Predictive-Maintenance) **
 adad fgfg fbbgfsd
 
-** [🔗 View Project on GitHub](https://github.com/YourGithubUsername/Predictive-Maintenance)**
+** [🔗 View Project on GitHub](https://github.com/YourGithubUsername/Predictive-Maintenhance) **
 adad fgfg fbbgfsd
 ---
 
