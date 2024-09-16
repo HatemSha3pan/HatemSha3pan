@@ -16,20 +16,18 @@ Currently, I focus on using Python and SQL to analyze, interpret, and visualize 
 
 ## 🚀 Projects
 
-### [Predictive Maintenance using Machine Learning](https://github.com/YourGithubUsername/Predictive-Maintenance)
-🛠️ **Description:** Developed a machine learning model to predict equipment failures in industrial machinery using real-time sensor data.
+### [Predictive Breast Cancer using Machine Learning](https://github.com/HatemSha3pan/Breast-Cancer-Detection)
+🛠️ **Description:** Implemented and compared Random Forest and Logistic Regression models to predict breast cancer using EDA,
+feature scaling, and visualization techniques with Python, Pandas, Scikit-learn, Matplotlib, and Seaborn.
 
 
-### [Customer Segmentation using RFM Analysis](https://github.com/YourGithubUsername/Customer-Segmentation)
-📊 **Description:** Applied RFM analysis to segment customers based on purchasing behavior for targeted marketing strategies.
+### [Sales Management](https://github.com/HatemSha3pan/Sales_Project)
+📊 **Description:**  Developed a sales management dashboard using SQL for data transformation and 
+Power BI for interactive visualizations of internet sales, customer behavior, and product performance.
 
 
-### [Sentiment Analysis on Product Reviews](https://github.com/YourGithubUsername/Sentiment-Analysis)
-💬 **Description:** Built a sentiment analysis tool to classify and visualize customer review sentiments for a retail platform.
-
-
-### [Sales Forecasting with Time Series Models](https://github.com/YourGithubUsername/Sales-Forecasting)
-📈 **Description:** Developed time series forecasting models to predict future sales trends using historical sales data.
+### [Pizza Store](https://github.com/HatemSha3pan)
+🍕 **Description:** .
 
 ---
 
