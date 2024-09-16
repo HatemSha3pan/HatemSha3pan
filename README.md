@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Hatem Shapan Ahmed](https://github.com/HatemSha3pan)
 ### Data Analyst | Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Hatem-Shapan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatem-shapan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HatemSha3pan)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatem.shapan.02@gmail.com)
 
@@ -57,7 +57,7 @@ Currently, I focus on using Python and SQL to analyze, interpret, and visualize 
 Feel free to reach out to discuss data projects, potential collaborations, or just to chat about anything data-related!
 
 📧 [hatem.shapan.02@gmail.com](mailto:hatem.shapan.02@gmail.com)  
-👔 [LinkedIn](https://www.linkedin.com/in/Hatem-Shapan)  
+👔 [LinkedIn](https://www.linkedin.com/in/hatem-shapan)  
 💻 [GitHub](https://github.com/HatemSha3pan)
 
 ---
